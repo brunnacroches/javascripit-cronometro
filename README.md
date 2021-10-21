@@ -1,2 +1,2 @@
-# javascripit-cronometro
-javascripit-cronometro
+# javascript-cronometro
+javascript-cronometro
